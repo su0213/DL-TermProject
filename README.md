@@ -5,6 +5,8 @@ Name: IM-IAD: Industrial Image Anomaly Detection Benchmark in Manufacturing
 
 URL: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10443076&tag=1
 
+Midterm presentation Canva link: https://www.canva.com/design/DAGlP2PS7iQ/Tyz494Te86ndyO48tt-xNw/edit?utm_content=DAGlP2PS7iQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 ## Dataset Link
 DataSet	Link
 MVTec-AD: https://www.mvtec.com/company/research/datasets/mvtec-ad
