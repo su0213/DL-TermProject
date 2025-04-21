@@ -5,7 +5,7 @@ Name: Registration based Few-Shot Anomaly Detection
 
 URL: https://arxiv.org/pdf/2207.07361
 
-Git hub: https://github.com/MediaBrain-SJTU/RegAD
+Github (cite): https://github.com/MediaBrain-SJTU/RegAD
 
 Midterm presentation Canva link: https://www.canva.com/design/DAGlP2PS7iQ/Tyz494Te86ndyO48tt-xNw/edit?utm_content=DAGlP2PS7iQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
