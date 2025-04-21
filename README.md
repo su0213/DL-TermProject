@@ -3,7 +3,7 @@
 ## Paper
 Name: IM-IAD: Industrial Image Anomaly Detection Benchmark in Manufacturing
 
-https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10443076&tag=1
+URL: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10443076&tag=1
 
 ### Dataset Link
 DataSet	Link
